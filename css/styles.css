@@ -21,10 +21,6 @@ span {
   color: #fe8a71;
 }
 
-br {
-  color: #fe8a71;
-}
-
 p {
   color: #8f8f8f;
 }
@@ -66,6 +62,7 @@ line-height: 1.5;
   line-height: 1.5;
   font-weight: 600;
   margin-bottom: 20px;
+  color: #fe8a71;
 }
 
 .section-heading {
